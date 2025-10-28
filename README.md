@@ -91,6 +91,6 @@ Janani Raja
 
 ⭐ If you found this project helpful, please consider starring the repository!
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/82902adb-bbab-47bd-8763-33a7589a81cd" />
+
 
 
